@@ -32,8 +32,8 @@ The Gemini_API_with_Langchain.ipynb file contains the complete code and explanat
 
 ## Resources
 
-- [Colab Notebook](https://colab.research.google.com/drive/12Oqo8AB0fta8rD4bIm6KCtdzHBfLc71i?usp=drive_link) - Official repository for Langchain.
-- [Google GenerativeAI Package](https://python.langchain.com/docs/get_started/introduction) - Documentation Langchain
+- [Colab Notebook](https://colab.research.google.com/drive/12Oqo8AB0fta8rD4bIm6KCtdzHBfLc71i?usp=drive_link) - Google Colab Notebook link
+- [Langchain documentation](https://python.langchain.com/docs/get_started/introduction) - Documentation Langchain
 
 Contributions, suggestions for improvements, or issue reports are welcome via pull requests or raised issues in this repository.
 
