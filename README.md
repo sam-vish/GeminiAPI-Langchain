@@ -14,30 +14,28 @@ To run this notebook, you will need to install the following Python packages:
 !pip install -q "langchain[docarray]"
 ```
 ## Usage
-The Google Colab notebook provides examples of using Gemini API and Langchain for different language model tasks. Here's a brief overview of what's included:
 
-Setting up authentication and environment variables for the Gemini API.
-Listing available models and their descriptions.
-Generating text using the Gemini Pro model based on provided prompts.
-Demonstrating various language model chains using Langchain:
-Basic LLM Chain
-Basic Multi Chain
-More Complicated Chain - Mini RAG
-Pal Chain (Problem Answering Language Chain)
-Multi Modal (Combining Text and Image)
-Explore the notebook for detailed implementation examples and explanations.
+The Google Colab notebook offers examples utilizing Gemini API and Langchain for diverse language model tasks. Here's a brief summary:
+
+- Setting up authentication and environment variables for the Gemini API.
+- Listing available models with their descriptions.
+- Generating text using the Gemini Pro model based on provided prompts.
+- Demonstrating various language model chains using Langchain:
+  - Basic LLM Chain
+  - Basic Multi Chain
+  - More Complicated Chain - Mini RAG
+  - Pal Chain (Problem Answering Language Chain)
+  - Multi Modal (Combining Text and Image)
 
 ## Google Colab Notebook
 The Gemini_API_with_Langchain.ipynb file contains the complete code and explanations for integrating Gemini API with Langchain in a Google Colab environment.
 
 ## Resources
-Langchain GitHub Repository - Official repository for Langchain.
-Google GenerativeAI Package - Documentation for the Google GenerativeAI package.
-Feel free to contribute, suggest improvements, or report issues by creating pull requests or raising issues in this repository.
 
-##licence
+- [Colab Notebook](https://colab.research.google.com/drive/12Oqo8AB0fta8rD4bIm6KCtdzHBfLc71i?usp=drive_link) - Official repository for Langchain.
+- [Google GenerativeAI Package](https://python.langchain.com/docs/get_started/introduction) - Documentation Langchain
+
+Contributions, suggestions for improvements, or issue reports are welcome via pull requests or raised issues in this repository.
+
+## License
 This project is licensed under the MIT License.
-
-This README.md file provides an overview of the repository, installation instructions, usage guidelines, links to relevant resources, and information about contributing and licensing. Adjust it according to your specific repository content and requirements.
-
-Replace `['link_to_your_colab_notebook'](https://colab.research.google.com/drive/12Oqo8AB0fta8rD4bIm6KCtdzHBfLc71i?usp=sharing)` with the actual link to your Google Colab notebook where users can access the code and examples.
